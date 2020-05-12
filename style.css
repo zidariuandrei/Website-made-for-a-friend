@@ -1,0 +1,19 @@
+.albastru{
+    border: none !important;
+    background-color: #000000 !important;
+}
+
+.background  {
+    background-image: url("background.jpg");
+    height: 100vh;
+}
+.text {
+    color: aliceblue;
+    text-align: left;
+    font-size: 600%;
+    padding-top: 20vh;
+    padding-left: 5vw;
+}
+.Coloredtext {
+    color:#2a4b7e;
+}
